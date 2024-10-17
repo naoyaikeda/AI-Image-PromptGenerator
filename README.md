@@ -1,4 +1,4 @@
-# AI-Image-PromptGenerator (archived)
+# AI-Image-PromptGenerator
 
 **I lost the dopamine to keep this up a year ago. I'm able to pick it up again now, but I'm not sure it's worth doing after over a year of new tools. In any case, if anyone can find some benefit from this old code and prompt tags, I encourage doing so.**
 
